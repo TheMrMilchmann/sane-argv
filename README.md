@@ -2,7 +2,7 @@
 
 > A specification for interpreting command line parameters in a sane and predictable format.
 
-[View the latest version of the specification.](SPECIFICATION.md)
+[View the latest version of the specification.](SPECIFICATION.adoc)
 
 
 ## Implementations

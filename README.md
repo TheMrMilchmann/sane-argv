@@ -13,7 +13,7 @@
 
 
 ## License
-Copyright 2018 Leon Linhart
+Copyright 2018-2019 Leon Linhart
 
 Licensed under a Creative Commons Attribution-ShareAlike 4.0 International
 License (the "License"); you may not use this file except in compliance with the

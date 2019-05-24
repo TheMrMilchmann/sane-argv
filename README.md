@@ -4,12 +4,13 @@
 
 [View the latest version of the specification.](SPECIFICATION.md)
 
+
 ## Implementations
 
 | Name                                                                      | Language                          |
 | ------------------------------------------------------------------------- | --------------------------------- |
-| [KMLOptions](https://github.com/TheMrMilchmann/KMLOptions)                | [Kotlin](https://kotlinlang.org/) |
 | [MJLOptions](https://github.com/TheMrMilchmann/MJLOptions)                | Java                              |
+
 
 ## License
 Copyright 2018 Leon Linhart
